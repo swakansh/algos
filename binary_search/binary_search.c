@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/*
+ *This is a C implementation of Binary Search Algorithm.
+ */
 /*
  * @arr Array pointer
  * @arr_size Size of array
